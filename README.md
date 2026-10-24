@@ -68,86 +68,86 @@ The table below presents leading hosted solutions, sorted in descending order by
 
 ## 💻 Open-Source GitHub Projects
 
-The following active open-source projects power self-hosted, touch-friendly, or offline-first visual planning and storyboarding, sorted in descending order by **GitHub Star Count**:
+The following active open-source projects power self-hosted, touch-friendly, or offline-first visual planning and storyboarding, sorted in descending order by **GitHub Stars_Count**:
 
-### 1. [Excalidraw](https://github.com/excalidraw/excalidraw) [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)
+### 1. [Excalidraw](https://github.com/excalidraw/excalidraw) [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)
 - 🎨 **Distinctive Aesthetic**: Virtual whiteboard featuring a distinctive hand-drawn sketch style that keeps early course ideation approachable and informal.
 - 📱 **Touch & Stylus Ready**: Highly optimized for iPad, Android tablets, and stylus devices with smooth palm rejection and intuitive gesture navigation.
 - 🔒 **Local & Embeddable**: Zero-login local storage persistence, client-side end-to-end encryption, and a modular React component library (`@excalidraw/excalidraw`) to embed canvases directly into custom learning management systems.
 - 🚀 **Best For**: Rapid thumbnail sketching, course flow diagrams, and interactive scenario wireframing.
 
-### 2. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
+### 2. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
 - 📋 **All-in-One Local Workspace**: Privacy-first, open-source alternative to Notion with native Flutter apps across iOS, Android, macOS, Linux, and Windows.
 - 🗂️ **Multi-View Course Management**: Seamlessly connects visual storyboards, Kanban cards, document scripts, and structured database tables in a single unified project workspace.
 - 📴 **100% Offline Capable**: All instructional assets and notes remain locally stored on your machine or private cloud instance.
 - 🚀 **Best For**: Comprehensive instructional design management—from narrative lesson drafting and learning objectives tracking to modular storyboard cards.
 
-### 3. [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
+### 3. [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
 - 🔄 **True Dual-Surface Canvas**: Instantly toggles between a clean linear text editor (scripting & learning objectives) and an infinite whiteboard (visual storyboards & concept mind maps).
 - 🤝 **Local-First Real-Time Sync**: Powered by CRDTs (Conflict-free Replicated Data Types) for effortless multiplayer collaboration and offline resilience.
 - 🐳 **Self-Hostable**: Easily deployable via Docker for educational institutions and enterprise teams with strict data sovereignty mandates.
 - 🚀 **Best For**: Unified lesson development combining linear lecture scripts with expansive visual storyboards.
 
-### 4. [Draw.io Desktop](https://github.com/jgraph/drawio-desktop) [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social&color=white)](https://github.com/jgraph/drawio-desktop/stargazers)
+### 4. [Draw.io Desktop](https://github.com/jgraph/drawio-desktop) [![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social&color=white)](https://github.com/jgraph/drawio-desktop/stargazers)
 - 📐 **Industry-Standard Diagramming**: Desktop Electron application providing complete offline diagramming without network telemetry or registration.
 - 🧩 **Comprehensive Shape Libraries**: Massive collections of flowcharting nodes, wireframe stencils, user journey arrows, and storyboard cell templates.
 - 💾 **Universal File Interoperability**: Saves directly as open XML, SVG with embedded diagram data, or high-resolution PDF course assets.
 - 🚀 **Best For**: Technical instructional workflows, branching scenario decision trees, and SCORM navigation logic maps.
 
-### 5. [tldraw](https://github.com/tldraw/tldraw) [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)
+### 5. [tldraw](https://github.com/tldraw/tldraw) [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)
 - ⚡ **Ultra-Responsive Canvas Engine**: High-performance, lightweight infinite canvas designed with mobile browsers, touch events, and digital pens as first-class citizens.
 - 🛠️ **Developer-Centric SDK**: The industry's premier open-source whiteboard library, powering custom storyboarding apps, interactive quizzes, and collaborative web tools.
 - 🎯 **Minimalist UX**: Clutter-free interface leaving maximum screen real estate for visual lesson sketching.
 - 🚀 **Best For**: Teams developing custom web-based e-learning storyboard authoring tools and mobile whiteboards.
 
-### 6. [Xournal++](https://github.com/xournalpp/xournalpp) [![GitHub stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social&color=white)](https://github.com/xournalpp/xournalpp/stargazers)
+### 6. [Xournal++](https://github.com/xournalpp/xournalpp) [![GitHub_Stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social&color=white)](https://github.com/xournalpp/xournalpp/stargazers)
 - ✍️ **Pressure-Sensitive Handwriting**: Native C++ handwriting and sketch suite supporting pressure-sensitive styluses (Wacom, Apple Pencil, Microsoft Surface Pen).
 - 📄 **PDF Storyboard Annotation**: Import pre-printed storyboard grid PDFs, annotate frames with digital ink, and layer dialogue and camera directions.
 - 🔊 **Audio Recording Alignment**: Synchronize spoken audio lecture scratch tracks alongside handwritten storyboard frames.
 - 🚀 **Best For**: Tablet-first educators and instructional illustrators annotating multi-page storyboard templates.
 
-### 7. [Drawnix](https://github.com/plait-board/drawnix) [![GitHub stars](https://img.shields.io/github/stars/plait-board/drawnix?style=social&color=white)](https://github.com/plait-board/drawnix/stargazers)
+### 7. [Drawnix](https://github.com/plait-board/drawnix) [![GitHub_Stars](https://img.shields.io/github/stars/plait-board/drawnix?style=social&color=white)](https://github.com/plait-board/drawnix/stargazers)
 - 🧠 **Hybrid Visual Canvas**: Combines freehand drawing, structured mind mapping, and flowcharts on an infinite zoomable surface.
 - 🤖 **Syntax-to-Visual Generation**: Generates mind maps from Markdown outlines and structured flowcharts from Mermaid syntax automatically.
 - 🐳 **Docker-Deployable**: Clean self-hosted deployment architecture for private institutional servers.
 - 🚀 **Best For**: Educational technologists turning text lesson outlines directly into visual board maps and freehand annotations.
 
-### 8. [Rnote](https://github.com/flxzt/rnote) [![GitHub stars](https://img.shields.io/github/stars/flxzt/rnote?style=social&color=white)](https://github.com/flxzt/rnote/stargazers)
+### 8. [Rnote](https://github.com/flxzt/rnote) [![GitHub_Stars](https://img.shields.io/github/stars/flxzt/rnote?style=social&color=white)](https://github.com/flxzt/rnote/stargazers)
 - 🖊️ **Vector-Native Tablet Ink**: Built in Rust and GTK4, tailored specifically for digital drawing tablets and touchscreens.
 - 📐 **Adaptive Page Formats**: Switch between infinite canvas mode, fixed storyboard page grids, and continuous vertical scroll.
 - 🪄 **Shape Recognition & Pressure Curves**: Smooths freehand curves, detects geometric shapes, and outputs scalable vector SVG storyboards.
 - 🚀 **Best For**: Linux/Windows tablet creators seeking a lightweight, lag-free digital ink sketchpad for course thumbnails.
 
-### 9. [OpenToonz](https://github.com/opentoonz/opentoonz) [![GitHub stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers)
+### 9. [OpenToonz](https://github.com/opentoonz/opentoonz) [![GitHub_Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers)
 - 🎬 **Studio-Grade 2D Production**: The open-source animation production suite utilized by Studio Ghibli, equipped with full x-sheet exposure and camera track sequencing.
 - 🎞️ **Animatics & Audio Sync**: Assemble storyboard stills along a visual timeline, sync scratch dialogue audio, and export timecoded animatic reels.
 - 📐 **Vector/Raster Hybrid Engine**: Handles both hand-drawn bitmap storyboard panels and resolution-independent vector art.
 - 🚀 **Best For**: High-end animated instructional courses and multimedia video e-learning productions.
 
-### 10. [Storyboarder](https://github.com/wonderunit/storyboarder) [![GitHub stars](https://img.shields.io/github/stars/wonderunit/storyboarder?style=social&color=white)](https://github.com/wonderunit/storyboarder/stargazers)
+### 10. [Storyboarder](https://github.com/wonderunit/storyboarder) [![GitHub_Stars](https://img.shields.io/github/stars/wonderunit/storyboarder?style=social&color=white)](https://github.com/wonderunit/storyboarder/stargazers)
 - ⚡ **Rapid Panel Visualization**: Built specifically to make it easy to visualize stories as fast as you can draw stick figures.
 - ✏️ **Dedicated Pre-Visualization**: Instant panel addition, dialogue and timing capture, shot reordering, and direct animatic export to Premiere/Final Cut/PDF.
 - 🖨️ **Paper Worksheet Ingestion**: Print standard paper storyboard worksheets, sketch offline with a pencil, take a photo with your mobile phone, and Storyboarder will automatically align and ingest panels digitally.
 - 🚀 **Best For**: Filmmakers, instructional video directors, and course animators needing dedicated shot-by-shot sequencing on desktop.
 
-### 11. [OpenBoard](https://github.com/OpenBoard-org/OpenBoard) [![GitHub stars](https://img.shields.io/github/stars/OpenBoard-org/OpenBoard?style=social&color=white)](https://github.com/OpenBoard-org/OpenBoard/stargazers)
+### 11. [OpenBoard](https://github.com/OpenBoard-org/OpenBoard) [![GitHub_Stars](https://img.shields.io/github/stars/OpenBoard-org/OpenBoard?style=social&color=white)](https://github.com/OpenBoard-org/OpenBoard/stargazers)
 - 🏫 **Pedagogical Focus**: Purpose-built interactive whiteboard application designed specifically for schools, universities, and online classrooms.
 - 📽️ **Podcast/Screencast Recording**: Record synchronized screen drawings and microphone audio straight into course-ready video lectures.
 - 🖐️ **Interactive Screen Widgets**: Embed interactive web widgets, calculators, and media documents directly into presentation slides.
 - 🚀 **Best For**: Teachers and online course lecturers needing a classroom-tested visual presentation and recording board.
 
-### 12. [Tahoma2D](https://github.com/tahoma2d/tahoma2d) [![GitHub stars](https://img.shields.io/github/stars/tahoma2d/tahoma2d?style=social&color=white)](https://github.com/tahoma2d/tahoma2d/stargazers)
+### 12. [Tahoma2D](https://github.com/tahoma2d/tahoma2d) [![GitHub_Stars](https://img.shields.io/github/stars/tahoma2d/tahoma2d?style=social&color=white)](https://github.com/tahoma2d/tahoma2d/stargazers)
 - 📽️ **Streamlined 2D Animation**: Community fork of OpenToonz engineered for easier learning curves, cleaner UI, and native stop-motion camera capture.
 - ⏱️ **Timing & Scene Assembly**: Pre-visualize shot pacing and camera pans before committing to full module production.
 - 🚀 **Best For**: Indie e-learning creators producing 2D educational explainer videos and animated course demos.
 
-### 13. [Dim0](https://github.com/vcmf/dim0) [![GitHub stars](https://img.shields.io/github/stars/vcmf/dim0?style=social&color=white)](https://github.com/vcmf/dim0/stargazers)
+### 13. [Dim0](https://github.com/vcmf/dim0) [![GitHub_Stars](https://img.shields.io/github/stars/vcmf/dim0?style=social&color=white)](https://github.com/vcmf/dim0/stargazers)
 - 🤖 **AI-Native Infinite Canvas**: Open-source, self-hostable collaborative canvas integrating the **OpenAI Agents SDK** for intelligent workspace actions.
 - 🧩 **Multiplayer Live Cursors**: Conflict-free real-time sync with support for notes, code sandboxes, interactive React mini-apps, and nested boards.
 - 🧠 **Context-Aware AI Assistant**: Agents read the canvas state, generate storyboard drafts from lesson objectives, and place interactive quiz nodes directly on the board.
 - 🚀 **Best For**: Advanced educational teams experimenting with generative AI agents for curriculum co-creation.
 
-### 14. [Ztoryc](https://github.com/matitanimata/ztoryc) [![GitHub stars](https://img.shields.io/github/stars/matitanimata/ztoryc?style=social&color=white)](https://github.com/matitanimata/ztoryc/stargazers)
+### 14. [Ztoryc](https://github.com/matitanimata/ztoryc) [![GitHub_Stars](https://img.shields.io/github/stars/matitanimata/ztoryc?style=social&color=white)](https://github.com/matitanimata/ztoryc/stargazers)
 - 🎯 **Purpose-Built Animation Storyboarding**: A specialized fork of Tahoma2D created exclusively for pre-production artists and storyboard directors.
 - 🎥 **Camera & Shot Annotations**: Dynamic panel grid with automatic keyframe detection, 3D lighting direction gizmo, START/STOP camera motion arrows, and script import (Final Draft, Fountain, DOCX).
 - 📦 **Direct Production Handoff**: Generates professional PDF storyboard dossiers, timecoded video animatics, and structured `.tnz` layout scenes ready for animation.
@@ -177,7 +177,7 @@ Contributions are warmly welcomed! Help keep this repository comprehensive and u
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-tool`).
 3. 📝 **Add or edit entries in `README.md`**:
    - For SaaS tools: include company scale/valuation, exact starting tier price, and specific free tier limits.
-   - For Open-Source tools: include official GitHub repo link, social star badge, key architectural highlights, and target workflow.
+   - For Open-Source tools: include official GitHub repo link, social Stars_Badge, key architectural highlights, and target workflow.
 4. 🧪 **Verify link integrity and formatting**.
 5. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
